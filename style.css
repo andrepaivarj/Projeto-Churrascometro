@@ -1,0 +1,48 @@
+#input {
+    width: 300px;
+    height: 500px;
+    background-color: cadetblue;
+    text-align: center;
+    margin-left: 35%;
+    border-style: solid;
+}
+
+#input h1{
+    font-family: 'Zilla Slab', sans-serif;
+    padding-top: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+#adultos{
+    width: 80%;
+    height: 25px;
+    margin-bottom: 10px;
+}
+
+#criancas{
+    width: 80%;
+    height: 25px;
+    margin-bottom: 10px;
+}
+
+#duracao{
+    width: 80%;
+    height: 25px;
+    margin-bottom: 10px;
+}
+
+#calcular{
+    width: 80%;
+    height: 25px;
+    margin-bottom: 10px;
+    border-style: none;
+    font-family: 'Zilla Slab', sans-serif;
+    font-size: 15px;
+}
+
+#resultado{
+    font-family: 'Zilla Slab', sans-serif;
+    color: white;
+}
